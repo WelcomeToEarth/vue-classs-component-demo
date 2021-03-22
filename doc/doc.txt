@@ -1,0 +1,8 @@
+https://app.mockplus.cn/s/_nMVHcHaE92
+https://github.com/a7650/vue3-draggable-resizable
+
+## deployment
+172.22.25.4/5
+ibase/huiji@de1u
+/home/ibase/static_files/s/poster2
+https://br.xinhua-news.cn/s/poster2/
